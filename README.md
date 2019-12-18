@@ -103,3 +103,16 @@
 * G ood morning
 * I 'm fine
 * T hank you. And you?
+
+---
+*언제나 블루프린트
+*리얼로 느끼는 건데 프로그래밍 이상함
+*얼빠지네 이래서 나는 문과ㅠㅠ
+---
+*유 복습좀 필요할듯
+*니드 복습.
+*티나게 프로그래밍 해메고 있어
+---
+*Good morning D
+*Ie morning
+*Till I finish
